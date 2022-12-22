@@ -1,0 +1,64 @@
+body{
+    background-color: hsl(217, 54%, 11%);
+     display: flex;
+    justify-content: center;
+    align-content: center;  
+    height: 100vh;
+    font-family: 'Outfit', sans-serif;
+}
+.card{
+    box-shadow:rgba(0, 0, 0, 0.705);
+    height: 600px;
+    width: 400px;
+    background-color:  hsl(216, 50%, 16%);
+    border-radius: 12px;
+}
+.Equilibrium{
+    border-radius: 12px;
+    display: flex;
+    justify-content: center;
+    height: 56%;
+}
+.image1{
+    border-radius: 12px;
+    height: 95%;
+    width: 90%;
+    margin: 10px;
+}
+#text{
+    font-weight: normal;
+    color: rgba(197, 187, 187, 0.767);
+}
+
+.inline{
+    height: 5%;
+    width: 100%;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+.ethereum{
+    width:40%;
+    align-content: flex-start;
+}
+.ether{
+    height: 21px;
+     width: 16px;
+     margin: 0px;
+     padding:0px;
+}
+.clock{
+display: inline-block;
+width: 30%;
+}
+.avatarS{
+    
+}
+.avatar{
+    margin-top: 9px;
+    width: 45px;
+    height: 40px;
+    border-color: white 2px;
+margin-left: 3%;
+}
